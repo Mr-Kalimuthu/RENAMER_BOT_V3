@@ -14,7 +14,7 @@ async def upgrade(bot,update):
 	
 	**VIP 2 **
 	Daily Upload limit Unlimited 
-	Price Rs  160  🇮🇳/🌎 3$  per Monthly
+	Price Rs  160  🇮🇳/🌎 2$  per Monthly
 	
 	
 	Pay Using Upi I'd ```kalimuthua28@paytm```
